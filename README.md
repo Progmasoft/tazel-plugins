@@ -17,7 +17,7 @@ Tala. They are on ViGet, from where Tazel downloads them:
 plugins {
   plugin("Progmasoft") {
     name = "CC"
-    version = "0.1.0"
+    version = "0.1.1"
   }
 }
 
@@ -68,7 +68,7 @@ output directory of the build mode (`build/debug` or `build/release`). C++ objec
 plugins {
   plugin("Progmasoft") {
     name = "CMake"
-    version = "0.1.0"
+    version = "0.1.1"
   }
 }
 

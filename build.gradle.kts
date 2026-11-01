@@ -7,7 +7,7 @@
 // com.progmasoft.tazel.plugin, whose version is the Tazel it is built for.
 plugins {
     kotlin("jvm") version "2.4.0" apply false
-    id("com.progmasoft.tazel.plugin") version "0.2.0" apply false
+    id("com.progmasoft.tazel.plugin") version "0.4.0" apply false
     id("com.diffplug.spotless") version "8.9.0"
 }
 

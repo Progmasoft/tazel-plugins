@@ -5,6 +5,12 @@
 
 Each plugin has a version of its own; a section names the plugin and its version.
 
+## CC 0.1.1 and CMake 0.1.1 - 2026-11-01
+
+- Both plugins build against Tazel 0.4.0.
+- Project files and the license of the descriptors move to the Progmasoft Linking Exception, Version 2.0. Earlier
+  releases can rely on Version 2.0 too.
+
 ## CC 0.1.0 and CMake 0.1.0 - 2026-10-29
 
 The first plugins, for Tazel 0.2.0 and plugin API 2.
